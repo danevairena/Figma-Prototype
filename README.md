@@ -45,15 +45,3 @@ Each screen guides the user through a smooth onboarding process.
 ✔ Clear user flows  
 ✔ Form design  
 ✔ Branding & visual identity  
-
----
-
-## 📁 Folder Structure  
-```
-/Screens
-    Login.png
-    PasswordReset.png
-    CreateAccount.png
-    UserInfo.png
-README.md
-```
