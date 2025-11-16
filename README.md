@@ -10,18 +10,27 @@ Each screen guides the user through a smooth onboarding process.
 
 ---
 
-## 📌 Screens Included  
+## Screenshots
+### 🏠 Welcome Page  
+![Welcome](./Screens/WelcomePage.png)
+
 ### 🔐 Login  
-![Login](./Screens/Login.png)
+![Login](./Screens/LogIn.png)
 
 ### 🔁 Password Reset  
-![PasswordReset](./Screens/PasswordReset.png)
+![Password Reset](./Screens/PasswordReset.png)
+
+### ✉️ Reset Link Sent  
+![Reset Link Sent](./Screens/ResetLinkSent.png)
 
 ### 📝 Create Account  
-![CreateAccount](./Screens/CreateAccount.png)
+![Create Account](./Screens/Register.png)
 
 ### 🧍 Additional User Information  
-![UserInfo](./Screens/UserInfo.png)
+![User Info](./Screens/AboutInfo.png)
+
+### ✉️ Activation Link Sent  
+![Activation Link Sent](./Screens/ActivationLinkSent.png)
 
 ---
 
